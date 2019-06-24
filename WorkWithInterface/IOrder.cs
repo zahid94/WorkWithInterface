@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace WorkWithInterface
 {
+    /*interface here....it  use for multiple inhetance access*/
    public interface IOrder
     {
         Customer Registration(Customer customer);
